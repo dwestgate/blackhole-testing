@@ -1,0 +1,9 @@
+[
+  {
+    "action" : {
+      "type" : "block"
+    },
+    "trigger" : {
+      "url-filter" : ".*\\.drudgereport\\.com"
+    }
+]
