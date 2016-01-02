@@ -1,0 +1,10 @@
+[
+  {
+    "action" : {
+      "type" : "block"
+    },
+    "badentry" : {
+      "url-filter" : ".*\\.drudgereport\\.com"
+    }
+  }
+]
