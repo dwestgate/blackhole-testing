@@ -4,15 +4,8 @@
       "type" : "block"
     },
     "trigger" : {
-      "url-filter": "ads\\.doubleclick\\.net"
-    }
-  },
-  {
-    "action" : {
-      "type" : "block"
-    },
-    "trigger" : {
-      "url-filter": "www\\.cnn\\.com"
+      "url-filter": ".*",
+      "if-domain": ["www.cnn.com", "www.drudgereport.com"]
     }
   }
 ]
