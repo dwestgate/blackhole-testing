@@ -4,7 +4,7 @@
       "type" : "block"
     },
     "trigger" : {
-      "url-filter": "ads.doubleclick.net"
+      "url-filter": "ads\\.doubleclick\\.net"
     }
   },
   {
@@ -12,7 +12,7 @@
       "type" : "block"
     },
     "trigger" : {
-      "url-filter": "www.cnn.com"
+      "url-filter": "www\\.cnn\\.com"
     }
   }
 ]
