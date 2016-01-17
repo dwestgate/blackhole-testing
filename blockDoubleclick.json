@@ -14,7 +14,7 @@
     },
     "trigger" : {
       "url-filter": ".*",
-      "if-domain": ["*.cnn.com"]
+      "if-domain": ["www.cnn.com"]
     }
   }
 ]
