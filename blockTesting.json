@@ -5,7 +5,7 @@
     },
     "trigger" : {
       "url-filter": ".*",
-      "if-domain": ["www.cnn.com", "www.drudgereport.com"]
+      "if-domain": ["*in.com", "*drudgereport.com"]
     }
   }
 ]
