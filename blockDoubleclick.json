@@ -5,7 +5,15 @@
     },
     "trigger" : {
       "url-filter": ".*",
-      "if-domain": ["ads.doubleclick.net"],
+      "if-domain": ["ads.doubleclick.net"]
+    }
+  },
+  {
+    "action" : {
+      "type" : "block"
+    },
+    "trigger" : {
+      "url-filter": ".*",
       "if-domain": ["cnn.com"]
     }
   }
