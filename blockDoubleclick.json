@@ -5,7 +5,8 @@
     },
     "trigger" : {
       "url-filter": ".*",
-      "if-domain": ["*ads.doubleclick.net"]
+      "if-domain": ["ads.doubleclick.net"],
+      "if-domain": ["cnn.com"]
     }
   }
 ]
