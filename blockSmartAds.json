@@ -1,10 +1,11 @@
 [
   {
     "action" : {
-      "type" : "css-display-none"
+      "type" : "css-display-none",
+      "selector" : "/html/head/meta[@name='apple-itunes-app']"
     },
     "trigger" : {
-      "resource-type" : ["apple-itunes-app"]
+      "url-filter": ".*"
     }
   }
 ]
