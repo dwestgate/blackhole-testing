@@ -4,7 +4,6 @@
       "type" : "css-display-none"
     },
     "trigger" : {
-      "url-filter" : ".*",
       "resource-type" : ["apple-itunes-app"]
     }
   }
