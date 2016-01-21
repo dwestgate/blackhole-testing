@@ -1,7 +1,7 @@
 [
   {
     "action" : {
-      "type" : "block"
+      "type" : "css-display-none"
     },
     "trigger" : {
       "url-filter" : ".*",
