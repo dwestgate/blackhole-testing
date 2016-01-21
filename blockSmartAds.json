@@ -2,7 +2,7 @@
   {
     "action" : {
       "type" : "css-display-none",
-      "selector" : "/html/head/meta[@name='apple-itunes-app']"
+      "selector" : "meta[@name='apple-mobile-web-app-title']"
     },
     "trigger" : {
       "url-filter": ".*"
