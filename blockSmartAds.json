@@ -1,0 +1,11 @@
+[
+  {
+    "action" : {
+      "type" : "block"
+    },
+    "trigger" : {
+      "url-filter" : ".*",
+      "resource-type" : ["document","raw","image","style-sheet","script","font","svg-document","media","popup"]
+    }
+  }
+]
