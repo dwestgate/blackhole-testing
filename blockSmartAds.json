@@ -2,10 +2,19 @@
   {
     "action" : {
       "type" : "css-display-none",
-      "selector : "meta[name=apple-itunes-app]
+      "selector" : "h2.cbs-section"
     },
     "trigger" : {
       "url-filter": ".*"
     }
-  }
+  },
+    {
+      "action" : {
+        "type" : "css-display-none",
+        "selector" : "meta[name=apple-itunes-app]"
+      },
+      "trigger" : {
+        "url-filter": ".*"
+      }
+    }
 ]
